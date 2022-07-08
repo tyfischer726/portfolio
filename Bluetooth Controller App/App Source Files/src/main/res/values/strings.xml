@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Bluetooth Controller</string>
+
+    <string name="turn_on">Turn On Bluetooth</string>
+    <string name="turn_off">Turn Off Bluetooth</string>
+    <string name="refresh_button">Refresh</string>
+
+    <string name="turn_led_on">Turn LED On</string>
+    <string name="turn_led_off">Turn LED Off</string>
+    <string name="disconnect">Disconnect Device</string>
+
+</resources>
